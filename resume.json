@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "Denniel Joshua T. Diaz",
+    "label": "Associate Software Engineer",
+    "picture": "https://i.imgur.com/TYjcjE7.jpg",
+    "email": "denniel.joshua@gmail.com",
+    "phone": "(639) 350-549-128",
+    "website": "",
+    "summary": "Denniel Joshua hails from Mabalacat, Pampanga. He has earned degrees from the Mabalacat City College. While a student, he worked for TORO Limited as a part time software developer. While his work focuses on JavaScript development. At TORO Limited he used frameworks and languages such as NodeJS, Express, AngularJS and React, his non-work interests range widely, everything from anime to creating music beats. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "location": {
+      "address": "126 Magsaysay Street, San Joaquin",
+      "postalCode": "",
+      "city": "Mabalacat",
+      "countryCode": "PH",
+      "region": "Pampanga"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "TORO Limited",
+      "position": "Associate Software Engineer",
+      "website": "http://torocloud.com",
+      "startDate": "2017-01-03",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Built a fast authentication system for torocloud using NodeJS, Express and Redis",
+        "Built a custom version of swagger-ui that fits toro's themes and authentication system using ReactJS",
+        "Built an application that automatically uploads pictures to Instagram from a CSV file for the company owner's other business using TORO Integrate (TORO's own Enterprise Service Bus)",
+        "Currently maintaining and refactoring a chrome extension that crawls API's documentation and builds an OpenAPI Specification from the crawled data. The extension is written using ES6, HandlebarsJS and SCSS"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Mabalacat City College",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2015-07",
+      "endDate": "2018",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Asian Institute of Computing Studies",
+      "area": "Computer Science",
+      "studyType": "Associate",
+      "startDate": "2013",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Hackathon Champion",
+      "date": "2016",
+      "awarder": "SAITE 2016",
+      "summary": "Created a Notes CRUD Application Frontend: AngularJS Backend: Laravel"
+    },
+    {
+      "title": "Most Proficient Programmer of the Year",
+      "date": "2015",
+      "awarder": "Asian Institute of Computing Studies",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Javascript Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ReactJS",
+        "NodeJS",
+        "Express",
+        "angularjs"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Unity3D",
+        "c#",
+        "Photon Networking",
+        "playfab"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Filipino",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Mark M. Cruz",
+      "reference": "College Instructor - 09258498288"
+    },
+    {
+      "name": "Noelito Calma",
+      "reference": "Front End Developer - 09176322184"
+    }
+  ]
+}
