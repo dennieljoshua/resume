@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Denniel Joshua T. Diaz",
-    "label": "Associate Software Engineer",
+    "label": "Software Engineer",
     "picture": "https://i.imgur.com/TYjcjE7.jpg",
     "email": "denniel.joshua@gmail.com",
     "phone": "(639) 350-549-128",
@@ -9,7 +9,7 @@
     "summary": "Denniel Joshua hails from Mabalacat, Pampanga. He has earned degrees from the Mabalacat City College. While a student, he worked for TORO Limited as a part time software developer. While his work focuses on JavaScript development. At TORO Limited he used frameworks and languages such as NodeJS, Express, AngularJS and React, his non-work interests range widely, everything from anime to creating music beats. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
     "location": {
       "address": "126 Magsaysay Street, San Joaquin",
-      "postalCode": "",
+      "postalCode": "2010A",
       "city": "Mabalacat",
       "countryCode": "PH",
       "region": "Pampanga"
@@ -29,17 +29,30 @@
   },
   "work": [
     {
+      "company": "Rapid Plaforom AU",
+      "position": "Software Developer",
+      "website": "http://rapidplatform.com.au",
+      "startDate": "2019-12-06",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Built react components that interact with many microsoft api services like sharepoint or graph apis",
+        "Built open api schema generator for Rapid Platform clients to use in Microsoft Flow and Power Apps",
+        "Built PowerBI integration with Rapid Platform allowing automatitc creation of PowerBI workspaces, automatic setting of PowerBI Dedicated Capacity and PowerBI .pbix file uploads from within Rapid Platform"
+      ]
+    },
+    {
       "company": "TORO Limited",
       "position": "Associate Software Engineer",
       "website": "http://torocloud.com",
       "startDate": "2017-01-03",
-      "endDate": "",
+      "endDate": "2019-11-03",
       "summary": "",
       "highlights": [
         "Built a fast authentication system for torocloud using NodeJS, Express and Redis",
         "Built a custom version of swagger-ui that fits toro's themes and authentication system using ReactJS",
         "Built an application that automatically uploads pictures to Instagram from a CSV file for the company owner's other business using TORO Integrate (TORO's own Enterprise Service Bus)",
-        "Currently maintaining and refactoring a chrome extension that crawls API's documentation and builds an OpenAPI Specification from the crawled data. The extension is written using ES6, HandlebarsJS and SCSS"
+        "Built a chrome extension that crawls API's documentation and builds an OpenAPI Specification from the crawled data. The extension is written using ES6, HandlebarsJS and SCSS"
       ]
     }
   ],
@@ -90,7 +103,12 @@
         "ReactJS",
         "NodeJS",
         "Express",
-        "angularjs"
+        "Angularjs",
+        "MobX",
+        "Redux",
+        "TypeScript",
+        "Webpack",
+        "React Native"
       ]
     },
     {
@@ -98,9 +116,9 @@
       "level": "Intermediate",
       "keywords": [
         "Unity3D",
-        "c#",
+        "C#",
         "Photon Networking",
-        "playfab"
+        "Playfab"
       ]
     }
   ],
